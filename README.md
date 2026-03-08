@@ -36,7 +36,7 @@ Ensure you have the following installed:
 1. Clone the Repository
 
     ```bash
-    https://github.com/AsilMehaboob/SpaceGame.git
+    https://github.com/Alan-m-varghese/nova-dash.git
     ```
     
 2. Navigate to the Project Directory
